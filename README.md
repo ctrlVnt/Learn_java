@@ -1,3 +1,3 @@
-## Learn Java
+# Learn Java
 
-this repository contains code for learn some caracteristics of Java language.
+Programmi base per apprendere il funzionamento delle funzionalità di Java e la maniera di programmare ad oggetti
